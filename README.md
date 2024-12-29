@@ -13,8 +13,8 @@ This tool ensures fair, fast, and objective evaluation of candidates, enabling H
 
 ## Installation Instructions
 
-1. Install the dependencies given in requirements.txt by the following code
-2. Run the Google Colab Notebook
+1. Install the dependencies given in requirements.txt in Google Colab Notebook
+2. Run the Google Colab Notebook 'ACST' in Notebook Folder
 3. Open the Gradio Live Link
 
 ## Usage Guide
@@ -23,5 +23,7 @@ This tool ensures fair, fast, and objective evaluation of candidates, enabling H
 2. Check the Results in Result Tab of of Gradio Interface
 
 ## Results and Visuals
+
+
 
 
