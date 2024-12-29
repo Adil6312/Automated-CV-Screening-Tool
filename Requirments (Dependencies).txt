@@ -1,0 +1,1 @@
+!pip install transformers torch accelerate huggingface_hub gradio fpdf shap fitz PyMuPDF PyPDF2 pdfplumber
