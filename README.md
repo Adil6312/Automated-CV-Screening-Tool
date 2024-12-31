@@ -24,6 +24,8 @@ This tool ensures fair, fast, and objective evaluation of candidates, enabling H
 
 ## Results and Visuals
 
+Results shared in the relevant folder
+
 
 
 
